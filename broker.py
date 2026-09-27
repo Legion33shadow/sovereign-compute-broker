@@ -5,6 +5,9 @@ Routes AI workloads based on strict geopolitical sovereignty and pricing.
 """
 import sys
 import json
+# _veritas_block: outputs of this script are SYNTHETIC TEMPLATES until live data sources are wired.
+# Status per LEGION-VERITAS policy: SCAFFOLD. See VERITAS.md.
+
 
 def route(workload: dict) -> dict:
     # Simuler les providers disponibles issus du pricing-matrix et sovereignty-index de LEGION
